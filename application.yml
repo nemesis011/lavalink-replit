@@ -2,7 +2,7 @@ server: # REST and WS server, Do not change this.
   port: 443
   address: 0.0.0.0
 
-lavalink:
+lavalink: "lavalink-replit-5.shadowsnemesis.repl.co"
   server:
     password: "maybeiwasboring" # You can change this
     playerUpdateInterval: 5 # How frequently to send player updates to clients, in seconds
